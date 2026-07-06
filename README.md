@@ -1,7 +1,7 @@
-# Halo, Saya Ananda! 👋
+# Hello, I'm Ananda! 👋
 
-### 🚀 Junior Web Developer & Tech Enthusiast
-Saya adalah seorang mahasiswa Sistem Informasi yang berfokus pada pengembangan web modern, digital design, dan eksplorasi kecerdasan buatan. Saya suka membangun antarmuka yang bersih, fungsional, dan responsif.
+### 🚀 Junior Web Developer & Ui/Ux Designer
+Saya adalah seorang pelajar yang berfokus pada pengembangan web modern, digital design, dan eksplorasi kecerdasan buatan. Saya suka membangun antarmuka yang bersih, fungsional, dan responsif.
 
 ---
 
@@ -23,12 +23,6 @@ Saya adalah seorang mahasiswa Sistem Informasi yang berfokus pada pengembangan w
 ## 📊 Statistik GitHub (Interaktif & Real-time)
 
 Di bawah ini adalah kartu statistik yang akan terupdate secara otomatis berdasarkan aktivitas coding kamu di GitHub.
-
-### ⚡ Ringkasan Aktivitas
-![Statistik GitHub Ananda](https://github-readme-stats.vercel.app/api?username=ZowweisNaN&show_icons=true&theme=tokyonight&count_private=true)
-
-### 🔥 Bahasa Pemrograman yang Sering Digunakan
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ZowweisNaN&layout=compact&theme=tokyonight)
 
 ---
 
